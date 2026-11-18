@@ -628,8 +628,6 @@
   <block id="ea8e9cb87ad8076ed2bdd562222045c8" category="cell">300 TB</block>
   <block id="f75e792bf7a4a205f202f29d2fc54c22" category="summary">O Cloud Volumes ONTAP 9.12.1 inclui novos aprimoramentos.</block>
   <block id="4a7f350e84f13d9c2289d4e589fe2905" category="doc">Novidades do Cloud Volumes ONTAP 9.12.1</block>
-  <block id="9889b7a9df56580016f59ccd942fb1d1" category="inline-link">Notas de versão do BlueXP</block>
-  <block id="a2d6212bca3587cda1146d57dadc0edd" category="paragraph">Recursos e aprimoramentos adicionais também são introduzidos nas versões mais recentes do BlueXP  (antigo Gerenciador de nuvem). Consulte<block ref="c7887e85c6060ae2594d873a0f2ae025" category="inline-link-rx"></block> para obter detalhes.</block>
   <block id="9ebfa86c63f4ef78e5694ef1e3644df2" category="section-title">9.12.1 P14 (29 de agosto de 2024)</block>
   <block id="2736491b0d91473289e42f092b1bf7a8" category="paragraph">O patch 9.12.1 P14 já está disponível para o Cloud Volumes ONTAP para todos os provedores de nuvem. O BlueXP  solicitará que você atualize seus sistemas existentes para esta versão de patch.</block>
   <block id="c476446cae3f83bea1b304ddc122e040" category="inline-link-macro">Veja a lista de bugs corrigidos no patch P14</block>
@@ -739,4 +737,11 @@
   <block id="ef9be83cb59b0572a3581a6724316e48" category="list-text">Para obter suporte à região do Google Cloud Platform,<block ref="e55b14db85f4d4837890e415926626e0" category="inline-link-rx"></block>consulte .</block>
   <block id="d798d4963d0ac509a1bda5483d9b9a52" category="paragraph"><block ref="5a94f18247116693735ff13d8eeaa964" category="inline-link-rx"></block>.</block>
   <block id="fb83bdf454bf964031306f46d967b051" category="paragraph">As larguras de banda mostradas na tabela abaixo correspondem aos limites documentados da AWS para cada tipo de instância. Esses limites não correspondem totalmente ao que Cloud Volumes ONTAP pode fornecer. Para o desempenho esperado, consulte <block ref="f9e25e1e3616de01564541c204317f8f" category="inline-link-rx"></block>.</block>
+  <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="inline-link">Cloud Volumes ONTAP</block>
+  <block id="7cf7a992b100434a4b9392e0f02faba3" category="paragraph">Recursos e melhorias adicionais também foram introduzidos nas versões mais recentes do NetApp Console. Consulte a<block ref="56e5ce972271b4b4616ecc1db39a9778" category="inline-link-rx"></block> para obter detalhes.</block>
+  <block id="616e1c38e1f1d41623f2615bf031fcfa" category="section-title">9.12.1 P20HF1 (12 de novembro de 2026)</block>
+  <block id="a44f191f715552592796ff170d2e4d75" category="paragraph">O patch 9.12.1 P20HF1 já está disponível para o Cloud Volumes ONTAP para todos os provedores de nuvem. Este patch é compatível com ONTAP hotfix para 9.12.1.</block>
+  <block id="8ad3eb5eca42a4379abc9f1c9a2f829a" category="paragraph">Nos seus sistemas Cloud Volumes ONTAP, o Console pode solicitar que você atualize para este hotfix. No entanto, este hotfix é compatível apenas quando a versão do agente do Console é 4.12.0 ou posterior. Se a versão do agente do Console for anterior a 4.12.0, ignore a solicitação.</block>
+  <block id="08853958e0db62fd50058fd45b355d7a" category="inline-link-macro">Agente do Console 4.12.0</block>
+  <block id="8e8b20b71032c4ee10ed609d1fc74995" category="paragraph"><block ref="8e8b20b71032c4ee10ed609d1fc74995" category="inline-link-macro-rx"></block></block>
 </blocks>
